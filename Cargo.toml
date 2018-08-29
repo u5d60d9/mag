@@ -1,0 +1,6 @@
+[package]
+name = "mag"
+version = "0.1.0"
+authors = ["u5d60d9 <liuwei@dlwhy.com>"]
+
+[dependencies]
